@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-21T20:03:00 IST" name="Default suite" finished-at="2024-03-21T20:03:01 IST" duration-ms="1386">
+    <groups>
+    </groups>
+    <test started-at="2024-03-21T20:03:00 IST" name="Default test" finished-at="2024-03-21T20:03:01 IST" duration-ms="1386">
+      <class name="test.EmployeeTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.EmployeeTests@145f66e3]" started-at="2024-03-21T20:03:00 IST" name="setup" finished-at="2024-03-21T20:03:00 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testPostEmployee()[pri:1, instance:test.EmployeeTests@145f66e3]" started-at="2024-03-21T20:03:00 IST" name="testPostEmployee" finished-at="2024-03-21T20:03:01 IST" duration-ms="1050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostEmployee -->
+        <test-method signature="testGetAllEmployee()[pri:2, instance:test.EmployeeTests@145f66e3]" started-at="2024-03-21T20:03:01 IST" name="testGetAllEmployee" finished-at="2024-03-21T20:03:01 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAllEmployee -->
+        <test-method signature="testGetEmployeeById()[pri:3, instance:test.EmployeeTests@145f66e3]" started-at="2024-03-21T20:03:01 IST" name="testGetEmployeeById" finished-at="2024-03-21T20:03:01 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetEmployeeById -->
+        <test-method signature="testUpdateEmployee()[pri:4, instance:test.EmployeeTests@145f66e3]" started-at="2024-03-21T20:03:01 IST" name="testUpdateEmployee" finished-at="2024-03-21T20:03:01 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateEmployee -->
+        <test-method signature="testDeleteEmployee()[pri:5, instance:test.EmployeeTests@145f66e3]" started-at="2024-03-21T20:03:01 IST" name="testDeleteEmployee" finished-at="2024-03-21T20:03:01 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteEmployee -->
+      </class> <!-- test.EmployeeTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
